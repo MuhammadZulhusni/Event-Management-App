@@ -18,13 +18,13 @@ To run this Event Management App locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone git@github.com:yourusername/event-management-app.git
+    git clone git@github.com:zulhusni2003/Event-Management-App.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd event-management-app
+    cd Event-Management-App
     ```
 
 3. Install Composer dependencies:
