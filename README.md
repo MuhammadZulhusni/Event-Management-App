@@ -59,14 +59,6 @@ To run this Event Management App locally, follow these steps:
     php artisan db:seed
     ```
 
-9. Start the local development server:
-
-    ```bash
-    php artisan serve
-    ```
-
-10. Open your web browser and navigate to the local server address (typically http://localhost:8000).
-
 ## Usage
 
 Once the local server is running, you can start browsing upcoming events and post your own. Remember to sign in to access posting functionality.
